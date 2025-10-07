@@ -1,0 +1,9 @@
+{
+  "path": "qa-testcases/manual/General/TC-1759871090263-user-login.md",
+  "storyId": null,
+  "result": "pass",
+  "notes": "login successful",
+  "executed_by": "nastradachaG",
+  "executed_at": "2025-10-07T21:26:27.029Z",
+  "branch": "testrun/1759872387029"
+}
