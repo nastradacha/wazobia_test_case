@@ -1,10 +1,10 @@
 ---
-title: test case check 2
-story_id: aa111
-priority: P2
-suite: practice 
-created: 2025-10-07T11:52:59.402Z
- created_by: nastradacha
+title: "test case check 2"
+story_id: "aa111"
+priority: "P2"
+suite: "practice" 
+created: "2025-10-07T11:52:59.402Z"
+ created_by: "nastradacha"
 ---
 
 # test case check 2
