@@ -4,7 +4,9 @@ story_id: "666"
 priority: "P2"
 suite: "General"
 created: "2025-07-17T17:14:36Z"
-created_by: "nastracha"
+created_by: "nastradacha"
+updated_by: nastradacha
+updated: 2025-10-08T00:49:46.159Z
 ---
 
 # verify social media is displayed on listing details
