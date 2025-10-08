@@ -1,6 +1,6 @@
 ---
 title: "another practice test"
-story_id: "999"
+story_id: "46"
 priority: "P1"
 suite: "Authentication"
 component: "login"
