@@ -1,6 +1,6 @@
 ---
 title: "another practice test"
-story_id: "us-999"
+story_id: "999"
 priority: "P1"
 suite: "Authentication"
 component: "login"
@@ -11,6 +11,8 @@ status: "Draft"
 created: "2025-10-08T15:02:58.840Z"
 created_by: "nastradacha"
 assigned_to: "nastradacha"
+updated_by: nastradacha
+updated: 2025-10-08T15:17:28.826Z
 ---
 # another practice test
 
