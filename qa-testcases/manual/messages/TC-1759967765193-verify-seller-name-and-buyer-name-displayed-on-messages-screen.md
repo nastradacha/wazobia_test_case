@@ -11,7 +11,6 @@ status: "Draft"
 created: "2025-10-08T23:56:05.193Z"
 created_by: "nastradacha"
 ---
-
 # Verify seller name and buyer name displayed on messages screen
 
 ## Story Reference
