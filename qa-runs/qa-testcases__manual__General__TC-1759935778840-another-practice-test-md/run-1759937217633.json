@@ -1,0 +1,9 @@
+{
+  "path": "qa-testcases/manual/General/TC-1759935778840-another-practice-test.md",
+  "storyId": null,
+  "result": "fail",
+  "notes": "",
+  "executed_by": "nastradacha",
+  "executed_at": "2025-10-08T15:26:57.633Z",
+  "branch": "testrun/1759937217633"
+}
