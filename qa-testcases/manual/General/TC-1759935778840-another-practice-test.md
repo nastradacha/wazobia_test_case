@@ -12,7 +12,7 @@ created: "2025-10-08T15:02:58.840Z"
 created_by: "nastradacha"
 assigned_to: "nastradacha"
 updated_by: nastradacha
-updated: 2025-10-08T15:17:28.826Z
+updated: 2025-10-08T15:18:32.629Z
 ---
 # another practice test
 
@@ -30,7 +30,7 @@ Test Data: "username: testuser@example.com, password: Test123!
 ## Test Steps
 1. Navigate to login
 2. Enter username
-3. Enter password
+3. Enter passwords
 4. Click login
 
 ## Expected Results
