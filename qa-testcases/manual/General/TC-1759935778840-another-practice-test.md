@@ -12,7 +12,7 @@ created: "2025-10-08T15:02:58.840Z"
 created_by: "nastradacha"
 assigned_to: "nastradacha"
 updated_by: nastradacha
-updated: 2025-10-08T15:31:59.946Z
+updated: 2025-10-08T19:10:44.786Z
 ---
 # another practice test
 
@@ -37,7 +37,7 @@ Test Data: "username: testuser@example.com, password: Test123!
 User is logged in and redirected to dashboard
 
 ## Metadata
-- **Priority**: P1
+- **Priority**: P2
 - **Suite**: Authentication
 - **Component**: login
 - **Environment**: staging
