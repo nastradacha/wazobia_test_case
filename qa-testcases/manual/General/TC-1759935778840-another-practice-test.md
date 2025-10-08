@@ -12,12 +12,12 @@ created: "2025-10-08T15:02:58.840Z"
 created_by: "nastradacha"
 assigned_to: "nastradacha"
 updated_by: nastradacha
-updated: 2025-10-08T15:18:32.629Z
+updated: 2025-10-08T15:31:59.946Z
 ---
 # another practice test
 
 ## Story Reference
-Story #us-999
+Story #US-999
 
 ## Preconditions
 User account exists in database
