@@ -10,7 +10,6 @@ env: "staging"
 status: "Draft"
 created: "2025-10-08T15:02:58.840Z"
 created_by: "nastradacha"
-assigned_to: "nastradacha"
 updated_by: nastradacha
 updated: 2025-10-08T19:10:44.786Z
 ---
