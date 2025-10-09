@@ -3,22 +3,23 @@ title: "TC - Verify that \"Access FAQ section\" is at the footer of every page"
 story_id: "7"
 priority: "P2"
 suite: "Regression"
-component: "Footer"
-data: "user should be logged in "
+component: "footer"
+data: "user should be logged in"
 env: "prod"
 status: "Draft"
-created: "2025-10-09T21:58:21.171Z"
+created: "2025-10-10T01:21:58.21.171Z"
 created_by: "nastradacha"
+preconditions: |
+steps: |
+expected: |
 updated_by: nastradacha
-updated: 2025-10-09T22:48:24.841Z
+updated: 2025-10-09T22:55:52.513Z
 ---
 
 # TC - Verify that "Access FAQ section" is at the footer of every page
 
 ## Story Reference
 Story #7
-
-
 
 ## Test Data
 user should be logged in
