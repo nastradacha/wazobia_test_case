@@ -1,0 +1,9 @@
+{
+  "path": "qa-testcases/manual/messages/TC-004-show-listing-title-truncated-on-the-tile.md",
+  "storyId": null,
+  "result": "pass",
+  "notes": "[Session: oct 06] tittle is showing\n\nEnvironment: prod\nBrowser: chrome\nBuild: N/A",
+  "executed_by": "yuslove123l",
+  "executed_at": "2025-10-10T22:40:14.820Z",
+  "branch": "testrun/1760136014820"
+}
