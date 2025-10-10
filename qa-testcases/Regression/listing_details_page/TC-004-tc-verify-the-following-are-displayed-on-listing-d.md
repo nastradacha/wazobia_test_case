@@ -15,9 +15,9 @@ env: "prod"
 status: "Draft"
 created: "2025-10-10T19:40:00.343Z"
 created_by: "nastradacha"
+assigned_to: "LadegbayeStella"
 ---
-
-# Verify the following are displayed on listing detail page - Title, make offer button, favorite, share, report
+# TC - Verify the following are displayed on listing detail page - Title, make offer button, favorite, share, report
 
 ## Story Reference
 Story #3
