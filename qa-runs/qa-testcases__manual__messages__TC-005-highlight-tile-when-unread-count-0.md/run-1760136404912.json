@@ -1,0 +1,9 @@
+{
+  "path": "qa-testcases/manual/messages/TC-005-highlight-tile-when-unread-count-0.md",
+  "storyId": null,
+  "result": "pass",
+  "notes": "[Session: oct 06] good\n\nEnvironment: prod\nBrowser: chrome\nBuild: N/A",
+  "executed_by": "yuslove123l",
+  "executed_at": "2025-10-10T22:46:44.912Z",
+  "branch": "testrun/1760136404912"
+}
