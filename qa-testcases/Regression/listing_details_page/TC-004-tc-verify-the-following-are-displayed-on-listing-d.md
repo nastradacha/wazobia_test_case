@@ -1,5 +1,5 @@
 ---
-title: "TC - Verify the following are displayed on listing detail page - Title, make offer button, favorite, share, report"
+title: "Verify the following are displayed on listing detail page - Title, make offer button, favorite, share, report"
 story_id: "3"
 priority: "P3"
 suite: "Regression"
@@ -17,7 +17,7 @@ created: "2025-10-10T19:40:00.343Z"
 created_by: "nastradacha"
 ---
 
-# TC - Verify the following are displayed on listing detail page - Title, make offer button, favorite, share, report
+# Verify the following are displayed on listing detail page - Title, make offer button, favorite, share, report
 
 ## Story Reference
 Story #3
