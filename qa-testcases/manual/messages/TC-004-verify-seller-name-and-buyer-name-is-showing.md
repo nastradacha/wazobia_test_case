@@ -2,7 +2,7 @@
 title: "verify seller name and buyer name is showing"
 story_id: "5"
 priority: "P3"
-suite: "messages"
+suite: "message"
 component: "message thread"
 preconditions: "two account needed"
 data: "test2 \npassword, test2\nmomo2\npassword, manofgoD2."
@@ -10,8 +10,8 @@ env: "prod"
 status: "Draft"
 created: "2025-10-09T22:27:40.971Z"
 created_by: "yuslove123l"
-updated_by: yuslove123l
-updated: 2025-10-09T22:50:00.105Z
+updated_by: nastradacha
+updated: 2025-10-10T22:29:46.129Z
 ---
 
 # verify seller name and buyer name is showing
