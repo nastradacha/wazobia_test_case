@@ -1,5 +1,5 @@
 ---
-title: "TC - Verify the following are displayed on listing detail page - Title, make offer button, favorite, share, report"
+title: "Verify the following are displayed on listing detail page - Title, make offer button, favorite, share, report"
 story_id: "3"
 priority: "P3"
 suite: "Regression"
