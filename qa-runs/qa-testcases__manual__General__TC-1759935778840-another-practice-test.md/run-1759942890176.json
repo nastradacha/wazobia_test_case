@@ -1,9 +1,0 @@
-{
-  "path": "qa-testcases/manual/General/TC-1759935778840-another-practice-test.md",
-  "storyId": null,
-  "result": "pass",
-  "notes": "[Session: Sprint 5 Smoke Test] \n\nEnvironment: dev\nBrowser: chrome\nBuild: N/A",
-  "executed_by": "nastradacha",
-  "executed_at": "2025-10-08T17:01:30.176Z",
-  "branch": "testrun/1759942890176"
-}
