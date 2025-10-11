@@ -5,18 +5,16 @@ priority: "P3"
 suite: "Messages"
 component: "Message"
 preconditions: |
-  - Tester should be logged in with two accounts
-  - there should be a message conversation between the two accounts
 data: "user: test2\nuser: momo2"
 steps: |
-  1. login to wazobialist.com with seller name and buyer name
-  2. click messages
-  3. check if seller and buyer names are in the following format - Buyer : name and seller: name
-expected: "- seller and buyer names are in the following format - Buyer : name and seller: name"
+3. check if seller and buyer names are in the following format - Buyer \: name and seller: name
+expected: "- seller and buyer names are in the following format - Buyer \: name and seller: name"
 env: "Prod"
 status: "Draft"
 created: "2025-10-11T18:15:18.654Z"
 created_by: "nastradacha"
+updated_by: nastradacha
+updated: 2025-10-11T18:58:50.817Z
 ---
 
 # Verify there is buyers and sellers names are displayed in the messages
