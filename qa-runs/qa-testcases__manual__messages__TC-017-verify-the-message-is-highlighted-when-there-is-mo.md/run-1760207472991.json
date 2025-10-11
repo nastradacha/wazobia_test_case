@@ -1,8 +1,0 @@
-{
-  "path": "qa-testcases/manual/messages/TC-017-verify-the-message-is-highlighted-when-there-is-mo.md",
-  "storyId": null,
-  "result": "pass",
-  "notes": "[Session: testing run] \n\nEnvironment: dev\nBrowser: N/A\nBuild: N/A",
-  "executed_by": "nastradacha",
-  "executed_at": "2025-10-11T18:31:12.991Z"
-}
