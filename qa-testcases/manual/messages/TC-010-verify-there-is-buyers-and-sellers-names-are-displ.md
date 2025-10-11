@@ -13,13 +13,13 @@ status: "Draft"
 created: "2025-10-11T13:46:40.888Z"
 created_by: "nastradacha"
 updated_by: nastradacha
-updated: 2025-10-11T15:58:32.345Z
+updated: 2025-10-11T15:59:08.632Z
 ---
 
 # Verify there is buyers and sellers  names are displayed in the messages
 
 ## Story Reference
-Story #5
+Story #MS-005
 
 ## Preconditions
 - Tester should be logged in with two accounts
