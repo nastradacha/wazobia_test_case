@@ -1,8 +1,0 @@
-{
-  "path": "qa-testcases/manual/messages/TC-015-verify-accepted-badge-is-displayed-to-buyer-when-t.md",
-  "storyId": null,
-  "result": "pass",
-  "notes": "[Session: sessonok] \n\nEnvironment: dev\nBrowser: N/A\nBuild: N/A",
-  "executed_by": "nastradacha",
-  "executed_at": "2025-10-11T20:28:17.402Z"
-}
