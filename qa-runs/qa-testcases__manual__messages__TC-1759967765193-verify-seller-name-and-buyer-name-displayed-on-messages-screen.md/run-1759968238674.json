@@ -1,9 +1,0 @@
-{
-  "path": "qa-testcases/manual/messages/TC-1759967765193-verify-seller-name-and-buyer-name-displayed-on-messages-screen.md",
-  "storyId": null,
-  "result": "pass",
-  "notes": "[Session: OCT 06] \n\nEnvironment: prod\nBrowser: Chrome\nBuild: N/A",
-  "executed_by": "nastradacha",
-  "executed_at": "2025-10-09T00:03:58.674Z",
-  "branch": "testrun/1759968238674"
-}
