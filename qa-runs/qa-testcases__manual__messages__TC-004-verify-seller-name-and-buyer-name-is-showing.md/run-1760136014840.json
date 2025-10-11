@@ -1,9 +1,0 @@
-{
-  "path": "qa-testcases/manual/messages/TC-004-verify-seller-name-and-buyer-name-is-showing.md",
-  "storyId": null,
-  "result": "pass",
-  "notes": "[Session: oct 06] success\n\nEnvironment: prod\nBrowser: chrome\nBuild: N/A",
-  "executed_by": "yuslove123l",
-  "executed_at": "2025-10-10T22:40:14.840Z",
-  "branch": "testrun/1760136014840"
-}
