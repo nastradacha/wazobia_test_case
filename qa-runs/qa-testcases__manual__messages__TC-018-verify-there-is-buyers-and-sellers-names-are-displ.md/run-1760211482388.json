@@ -1,0 +1,8 @@
+{
+  "path": "qa-testcases/manual/messages/TC-018-verify-there-is-buyers-and-sellers-names-are-displ.md",
+  "storyId": null,
+  "result": "pass",
+  "notes": "[Session: cvb zcvb] \n\nEnvironment: dev\nBrowser: N/A\nBuild: N/A",
+  "executed_by": "nastradacha",
+  "executed_at": "2025-10-11T19:38:02.388Z"
+}
