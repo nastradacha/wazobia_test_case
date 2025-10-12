@@ -1,8 +1,0 @@
-{
-  "path": "qa-testcases/manual/messages/TC-016-verify-rejected-badge-is-displayed-to-buyer-when-t.md",
-  "storyId": null,
-  "result": "pass",
-  "notes": "[Session: Oct 06] successful\n\nEnvironment: prod\nBrowser: Chrome\nBuild: N/A",
-  "executed_by": "nastradacha",
-  "executed_at": "2025-10-12T00:58:27.272Z"
-}
