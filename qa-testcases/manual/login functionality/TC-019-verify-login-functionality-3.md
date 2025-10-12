@@ -10,8 +10,8 @@ preconditions: |
   
 data: "gmail: devstella19@gmail.com\npassword: devstella19"
 steps: |
-  1. Nagivate to the login url : https://wazobialist.com/login
-  2.Enter a valid username.
+  1.  Nagivate to the login url : https://wazobialist.com/login
+  2.  Enter a valid username.
   3.	Enter a valid password.
   4.	Click the Login button.
 expected: "User is successfully logged in and redirected to the home page"
@@ -39,9 +39,9 @@ password: devstella19
 
 ## Test Steps
 1. Nagivate to the login url : https://wazobialist.com/login
-2.Enter a valid username.
-3.	Enter a valid password.
-4.	Click the Login button.
+2. Enter a valid username
+3. Enter a valid password
+4. Click the Login button.
 
 ## Expected Results
 User is successfully logged in and redirected to the home page
