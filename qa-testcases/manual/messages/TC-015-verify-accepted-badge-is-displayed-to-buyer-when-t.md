@@ -16,8 +16,8 @@ env: "prod"
 status: "Draft"
 created: "2025-10-11T17:40:26.919Z"
 created_by: "nastradacha"
+assigned_to: "yuslove123l"
 ---
-
 # Verify Accepted badge is displayed to buyer when the seller accepts the offer
 
 ## Story Reference
