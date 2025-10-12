@@ -16,8 +16,8 @@ env: "prod"
 status: "Draft"
 created: "2025-10-11T15:57:34.647Z"
 created_by: "nastradacha"
+assigned_to: "yuslove123l"
 ---
-
 # Verify listing title is displayed on each message card
 
 ## Story Reference
