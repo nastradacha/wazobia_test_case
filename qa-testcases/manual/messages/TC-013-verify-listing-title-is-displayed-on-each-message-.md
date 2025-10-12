@@ -17,8 +17,8 @@ env: "prod"
 status: "Draft"
 created: "2025-10-11T17:03:20.941Z"
 created_by: "nastradacha"
+assigned_to: "yuslove123l"
 ---
-
 # Verify listing title is displayed on each message card (truncated) when title is too long
 
 ## Story Reference
