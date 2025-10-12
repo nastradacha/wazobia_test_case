@@ -15,8 +15,8 @@ env: "prod"
 status: "Draft"
 created: "2025-10-11T18:01:05.853Z"
 created_by: "nastradacha"
+assigned_to: "yuslove123l"
 ---
-
 # Verify the message is highlighted when there is more than 1 unread message 
 
 ## Story Reference
