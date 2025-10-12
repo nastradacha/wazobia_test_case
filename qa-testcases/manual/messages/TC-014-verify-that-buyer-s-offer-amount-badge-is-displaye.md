@@ -16,8 +16,8 @@ env: "prod"
 status: "Draft"
 created: "2025-10-11T17:27:27.460Z"
 created_by: "nastradacha"
+assigned_to: "yuslove123l"
 ---
-
 # Verify that buyer's offer amount badge is displayed on the message card
 
 ## Story Reference
