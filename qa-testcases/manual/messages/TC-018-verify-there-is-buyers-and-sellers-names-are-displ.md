@@ -20,8 +20,8 @@ env: "Prod"
 status: "Draft"
 created: "2025-10-11T18:15:18.654Z"
 created_by: "nastradacha"
+assigned_to: "yuslove123l"
 ---
-
 # Verify that buyer and seller names are displayed in the messages
 
 ## Story Reference
