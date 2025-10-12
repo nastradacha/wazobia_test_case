@@ -17,8 +17,8 @@ env: "prod"
 status: "Draft"
 created: "2025-10-11T17:43:48.839Z"
 created_by: "nastradacha"
+assigned_to: "yuslove123l"
 ---
-
 # Verify Rejected badge is displayed to buyer when the seller rejects the offer
 
 ## Story Reference
