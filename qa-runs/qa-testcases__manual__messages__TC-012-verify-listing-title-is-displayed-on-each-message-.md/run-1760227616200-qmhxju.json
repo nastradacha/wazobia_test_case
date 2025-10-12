@@ -1,0 +1,8 @@
+{
+  "path": "qa-testcases/manual/messages/TC-012-verify-listing-title-is-displayed-on-each-message-.md",
+  "storyId": null,
+  "result": "pass",
+  "notes": "[Session: sprny 5] \n\nEnvironment: dev\nBrowser: N/A\nBuild: N/A",
+  "executed_by": "nastradacha",
+  "executed_at": "2025-10-12T00:06:56.200Z"
+}
