@@ -1,0 +1,8 @@
+{
+  "path": "qa-testcases/manual/messages/TC-017-verify-the-message-is-highlighted-when-there-is-mo.md",
+  "storyId": null,
+  "result": "pass",
+  "notes": "[Session: oct 06] successful\n\nEnvironment: prod\nBrowser: chrome\nBuild: N/A",
+  "executed_by": "yuslove123l",
+  "executed_at": "2025-10-14T22:00:06.625Z"
+}
