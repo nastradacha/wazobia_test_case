@@ -1,0 +1,30 @@
+{
+  "path": "qa-testcases/manual/messages/TC-014-verify-that-buyer-s-offer-amount-badge-is-displaye.md",
+  "storyId": null,
+  "result": "pass",
+  "notes": "[Session: 0ct 13] \n\nEnvironment: dev\nBrowser: N/A\nBuild: N/A",
+  "executed_by": "nastradacha",
+  "executed_at": "2025-10-16T04:40:16.050Z",
+  "steps": [
+    {
+      "name": "login to wazobialist.com with buyer and seller",
+      "result": "pass",
+      "notes": "User logged in successfully "
+    },
+    {
+      "name": "send offer to seller",
+      "result": "pass",
+      "notes": "offer sent"
+    },
+    {
+      "name": "go to seller message tab",
+      "result": "pass",
+      "notes": "user on seller tab"
+    },
+    {
+      "name": "buyer's offer amount badge is displayed on the message card  in naira",
+      "result": "pass",
+      "notes": "offer badge displayed"
+    }
+  ]
+}
