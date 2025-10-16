@@ -1,0 +1,35 @@
+{
+  "path": "qa-testcases/manual/messages/TC-016-verify-rejected-badge-is-displayed-to-buyer-when-t.md",
+  "storyId": null,
+  "result": "pass",
+  "notes": "[Session: 0ct 13] \n\nEnvironment: dev\nBrowser: N/A\nBuild: N/A",
+  "executed_by": "nastradacha",
+  "executed_at": "2025-10-16T04:40:16.548Z",
+  "steps": [
+    {
+      "name": "login to wazobialist.com as buyer and seller",
+      "result": "pass",
+      "notes": "user logged in "
+    },
+    {
+      "name": "create a new listing as seller",
+      "result": "pass",
+      "notes": "new listing created"
+    },
+    {
+      "name": "login as buyer and send an offer for that listing",
+      "result": "pass",
+      "notes": "user logged in and offer sent "
+    },
+    {
+      "name": "go the sellers messages and reject offer",
+      "result": "pass",
+      "notes": "offer rejected "
+    },
+    {
+      "name": "go to buyers messages and to see the rejected badge",
+      "result": "pass",
+      "notes": "i can see rejected  offer"
+    }
+  ]
+}
