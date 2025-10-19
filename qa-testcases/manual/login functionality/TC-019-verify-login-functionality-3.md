@@ -5,20 +5,16 @@ priority: "P2"
 suite: "General"
 component: "Login"
 preconditions: |
-  1. User must already be registered 
-  2. The browser must be open on the login page.
-  
 data: "gmail: devstella19@gmail.com\npassword: devstella19"
 steps: |
-  1.  Nagivate to the login url : https://wazobialist.com/login
-  2.  Enter a valid username.
-  3.	Enter a valid password.
-  4.	Click the Login button.
+1.  Nagivate to the login url: https://wazobialist.com/login
 expected: "User is successfully logged in and redirected to the home page"
 env: "prod"
 status: "Draft"
 created: "2025-10-12T00:17:28.700Z"
 created_by: "LadegbayeStella"
+updated_by: LadegbayeStella
+updated: 2025-10-19T09:45:50.770Z
 ---
 
 # Verify login functionality #3
