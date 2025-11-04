@@ -9,6 +9,8 @@ expected: "- pass"
 status: "Draft"
 created: "2025-11-04T17:39:03.680Z"
 created_by: "nastradacha"
+updated_by: nastradacha
+updated: 2025-11-04T18:47:35.060Z
 ---
 
 # test data test
@@ -19,7 +21,8 @@ No story linked
 
 
 ## Test Data
-select * from testers
+verification_sql: |
+  SELECT id,email FROM users WHERE id=123;
 
 
 ## Test Steps
