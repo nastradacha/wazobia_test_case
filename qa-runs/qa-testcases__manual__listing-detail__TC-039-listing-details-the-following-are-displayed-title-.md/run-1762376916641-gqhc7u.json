@@ -1,0 +1,30 @@
+{
+  "path": "qa-testcases/manual/listing-detail/TC-039-listing-details-the-following-are-displayed-title-.md",
+  "storyId": null,
+  "result": "pass",
+  "notes": "[Session: week1] test successful\n\nEnvironment: prod\nBrowser: N/A\nBuild: N/A",
+  "executed_by": "nastradacha",
+  "executed_at": "2025-11-05T21:08:36.641Z",
+  "steps": [
+    {
+      "name": "Go to wazobialist.com | navigate to  wazobialist.com/listing_details",
+      "result": "pass",
+      "notes": "page displayed correctly"
+    },
+    {
+      "name": "while on the home page, click on a listing",
+      "result": "pass",
+      "notes": "listing displayed correctly"
+    },
+    {
+      "name": "Verify the following are displayed on the page: Title, make offer button, favorite, share, report",
+      "result": "pass",
+      "notes": "the following are displayed on the page as expected: Title, make offer button, favorite, share, report"
+    },
+    {
+      "name": "safety tips should be displayed",
+      "result": "pass",
+      "notes": "safety tips displayed correctly"
+    }
+  ]
+}
