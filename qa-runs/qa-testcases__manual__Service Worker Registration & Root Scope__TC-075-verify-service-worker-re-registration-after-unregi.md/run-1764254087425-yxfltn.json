@@ -1,0 +1,8 @@
+{
+  "path": "qa-testcases/manual/Service Worker Registration & Root Scope/TC-075-verify-service-worker-re-registration-after-unregi.md",
+  "storyId": null,
+  "result": "fail",
+  "notes": "",
+  "executed_by": "QUDUS07",
+  "executed_at": "2025-11-27T14:34:47.425Z"
+}
